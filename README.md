@@ -30,11 +30,9 @@
   <img src="https://user-images.githubusercontent.com/111169711/211472502-97554c51-a5cb-4768-8fc9-5211e14cb2ae.gif" width="320" height="500"/>
   <img src="https://user-images.githubusercontent.com/111169711/211472510-6a813be6-8818-407d-8c47-312bdbcfa8e2.gif" width="320" height="500"/>
   <br>
-  
   <img src="https://user-images.githubusercontent.com/111169711/211472520-03e5d688-c2cd-4258-b121-16acfd894833.gif" width="320" height="500"/>
   <img src="https://user-images.githubusercontent.com/111169711/211472521-d92b6b9f-eab2-40c2-a0ee-67e3c184c87e.gif" width="320" height="500"/>
   <img src="https://user-images.githubusercontent.com/111169711/211472524-64c149bf-c8b7-459b-a534-a7385cc4dc5b.gif" width="320" height="500"/>
-
   <br>
   <br>
   [프로젝트 인원] 5명
@@ -62,6 +60,13 @@
   <br>
   <br>
   [프로젝트 내용] 개발자들을 위한 커뮤니티 공간
+  <br>
+  <br>
+  <img src="https://user-images.githubusercontent.com/111169711/211527752-8ca053fe-1c04-48ee-ab63-0f05ef8f7e50.gif" width="500" height="500"/>
+  <img src="https://user-images.githubusercontent.com/111169711/211527762-20cef55d-cbb4-4b0e-a786-2a849d4ba88e.gif" width="500" height="500"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/111169711/211527773-4c5bb70e-a4a0-45fc-9e01-0de5556efd50.gif" width="500" height="500"/>
+  <img src="https://user-images.githubusercontent.com/111169711/211527781-a9e3f2f8-535d-4d9d-accf-c60bf5507511.gif" width="500" height="500"/>
   <br>
   <br>
   [프로젝트 인원] 5명
