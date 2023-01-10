@@ -1,5 +1,8 @@
-# portfolios
-개발자 정영훈을 소개하는 포트폴리오 입니다.
+# PORTFOLIO
+## 신입 개발자 정영훈
+
+- 새로운 시도를 즐기는 개발자
+- 경험하고 성장하는 것을 좋아합니다
 
 <div align=center><h1>📚 STACKS</h1></div>
 
@@ -16,4 +19,9 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
+
+<div align=center><h1>PROJECT </h1></div>
+
+<div align=center>
 </div>
