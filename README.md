@@ -54,3 +54,30 @@
   <br>
   [깃허브 주소] https://github.com/qjqtkwns/HideAndSeekProject
 </div>
+
+<div><h1>Coders </h1></div>
+
+<div>
+  [프로젝트 기간] 2022-10-18 ~ 2022-11-14
+  <br>
+  <br>
+  [프로젝트 내용] 개발자들을 위한 커뮤니티 공간
+  <br>
+  <br>
+  [프로젝트 인원] 5명
+  <br>
+  <br>
+  [본인 역활]
+  <br>
+  &nbsp;- 로그인, 회원가입, 마이페이지 구현
+  <br>
+  &nbsp;- Ajax 와 모달창을 이용하여 마이페이지 설정 변경기능 구현
+  <br>
+  &nbsp;- 오픈소스 소셜로그인 API 를 사용하여 소셜 로그인과 일반 로그인 기능을 구현
+  <br>
+  <br>
+  [버전] JDK 1.6 , Tomcat 9.0.65
+  <br>
+  <br>
+  [깃허브 주소] https://github.com/qjqtkwns/HideAndSeekProject
+</div>
