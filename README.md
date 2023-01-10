@@ -23,9 +23,12 @@
   [프로젝트 기간] 2022-11-28 ~ 2022-12-29
   <br>
   [프로젝트 내용] 국내 양조장에서 만든 술을 판매하는 쇼핑몰
-  <img src="https://user-images.githubusercontent.com/111169711/211463676-bd5854ea-c521-4be6-a01b-48d5f691ebe7.gif" width="500" height="500"/>
-  ![store2](https://user-images.githubusercontent.com/111169711/211463679-c6af8cb6-2169-477e-8c0b-6f8281d0004f.gif)
-  ![store3](https://user-images.githubusercontent.com/111169711/211463691-2babbc50-0289-4466-824f-01a8e4c90110.gif)
+  <br>
+  <img src="https://user-images.githubusercontent.com/111169711/211463676-bd5854ea-c521-4be6-a01b-48d5f691ebe7.gif" width="300" height="500"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/111169711/211463679-c6af8cb6-2169-477e-8c0b-6f8281d0004f.gif" width="300" height="500"/>
+  &nbsp;
+  <img src="https://user-images.githubusercontent.com/111169711/211463691-2babbc50-0289-4466-824f-01a8e4c90110.gif" width="300" height="500"/>
   <br>
   [프로젝트 인원] 5명
   <br>
