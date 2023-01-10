@@ -81,8 +81,8 @@
   &nbsp;- 오픈소스 소셜로그인 API 를 사용하여 소셜 로그인과 일반 로그인 기능을 구현
   <br>
   <br>
-  [버전] JDK 1.6 , Tomcat 9.0.65
+  [버전] JDK 11 , Tomcat 9.0.65
   <br>
   <br>
-  [깃허브 주소] https://github.com/qjqtkwns/HideAndSeekProject
+  [깃허브 주소] [https://github.com/qjqtkwns/HideAndSeekProject](https://github.com/qjqtkwns/Coders_Project)
 </div>
