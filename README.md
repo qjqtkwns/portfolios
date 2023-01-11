@@ -26,13 +26,14 @@
   [프로젝트 내용] 국내 양조장에서 만든 술을 판매하는 쇼핑몰
   <br>
   <br>
-  <img src="https://user-images.githubusercontent.com/111169711/211463676-bd5854ea-c521-4be6-a01b-48d5f691ebe7.gif" width="320" height="500"/>
-  <img src="https://user-images.githubusercontent.com/111169711/211472502-97554c51-a5cb-4768-8fc9-5211e14cb2ae.gif" width="320" height="500"/>
-  <img src="https://user-images.githubusercontent.com/111169711/211472510-6a813be6-8818-407d-8c47-312bdbcfa8e2.gif" width="320" height="500"/>
+  <img src="https://user-images.githubusercontent.com/111169711/211463676-bd5854ea-c521-4be6-a01b-48d5f691ebe7.gif" width="500" height="500"/>
+  <img src="https://user-images.githubusercontent.com/111169711/211472502-97554c51-a5cb-4768-8fc9-5211e14cb2ae.gif" width="500" height="500"/>
   <br>
-  <img src="https://user-images.githubusercontent.com/111169711/211472520-03e5d688-c2cd-4258-b121-16acfd894833.gif" width="320" height="500"/>
-  <img src="https://user-images.githubusercontent.com/111169711/211472521-d92b6b9f-eab2-40c2-a0ee-67e3c184c87e.gif" width="320" height="500"/>
-  <img src="https://user-images.githubusercontent.com/111169711/211472524-64c149bf-c8b7-459b-a534-a7385cc4dc5b.gif" width="320" height="500"/>
+  <img src="https://user-images.githubusercontent.com/111169711/211472510-6a813be6-8818-407d-8c47-312bdbcfa8e2.gif" width="500" height="500"/>
+  <img src="https://user-images.githubusercontent.com/111169711/211472520-03e5d688-c2cd-4258-b121-16acfd894833.gif" width="500" height="500"/>
+  <br>
+  <img src="https://user-images.githubusercontent.com/111169711/211472521-d92b6b9f-eab2-40c2-a0ee-67e3c184c87e.gif" width="500" height="500"/>
+  <img src="https://user-images.githubusercontent.com/111169711/211472524-64c149bf-c8b7-459b-a534-a7385cc4dc5b.gif" width="500" height="500"/>
   <br>
   <br>
   [프로젝트 인원] 5명
