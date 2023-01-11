@@ -84,5 +84,5 @@
   [버전] JDK 11 , Tomcat 9.0.65
   <br>
   <br>
-  [깃허브 주소] [https://github.com/qjqtkwns/HideAndSeekProject](https://github.com/qjqtkwns/Coders_Project)
+  [깃허브 주소] https://github.com/qjqtkwns/Coders_Project
 </div>
